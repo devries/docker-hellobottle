@@ -1,5 +1,5 @@
 FROM devries/bottle
-MAINTAINER Christopher De Vries <cdevries@t2000inc.com>
+MAINTAINER Christopher De Vries <devries@idolstarastronomer.com>
 
 EXPOSE 8080
 
