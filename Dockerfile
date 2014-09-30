@@ -1,4 +1,4 @@
-FROM devries/bottle:nonroot
+FROM devries/bottle
 MAINTAINER Christopher De Vries <devries@idolstarastronomer.com>
 
 RUN pip install gevent
