@@ -11,4 +11,3 @@ build/
 venv/
 .env
 config.json
-
